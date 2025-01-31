@@ -27,3 +27,15 @@ The following architectures have been fine-tuned and optimized to enhance diseas
 - Self-Distillation & Knowledge Transfer: Improves feature learning and optimizes the performance of smaller architectures.
 
 - Class-wise Dataset Partitioning: Balanced dataset representation to mitigate bias and improve performance consistency.
+
+📈 Performance Metrics
+
+Each model has been evaluated using rigorous performance metrics:
+
+Accuracy: Average 95.7% across all models.
+
+ROC-AUC Curve: Comprehensive evaluation of classification thresholds.
+
+Precision-Recall Analysis: Ensures robustness against class imbalance.
+
+Confusion Matrix Visualization: Provides insights into misclassifications.
