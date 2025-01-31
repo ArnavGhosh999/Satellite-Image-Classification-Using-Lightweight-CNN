@@ -47,3 +47,10 @@ Clone the repository:
 git clone https://github.com/your_username/crop-disease-classification.git
 cd crop-disease-classification
 ```
+📬 Contact
+
+For queries, feel free to reach out:
+
+GitHub: ArnavGhosh999
+
+Email: arnav032919@gmail.com
