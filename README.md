@@ -39,3 +39,11 @@ ROC-AUC Curve: Comprehensive evaluation of classification thresholds.
 Precision-Recall Analysis: Ensures robustness against class imbalance.
 
 Confusion Matrix Visualization: Provides insights into misclassifications.
+
+🔧 Installation & Setup
+Clone the repository:
+
+```
+git clone https://github.com/your_username/crop-disease-classification.git
+cd crop-disease-classification
+```
