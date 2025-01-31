@@ -17,3 +17,13 @@ The following architectures have been fine-tuned and optimized to enhance diseas
 - SE-ResNeXt50 (Se_ResNeXt50_model.ipynb): Multi-branch feature extraction with residual learning and attention mechanisms.
 
 - TinyNet (TinyNet_model.ipynb): Lightweight yet powerful convolutional model for real-time inference.
+
+📊 Key Features & Enhancements
+
+- Adaptive Feature Recalibration: Models incorporate channel and spatial attention to refine feature extraction.
+
+- Progressive Resizing & Test-Time Augmentation (TTA): Enhances model robustness and generalization across different image scales.
+
+- Self-Distillation & Knowledge Transfer: Improves feature learning and optimizes the performance of smaller architectures.
+
+- Class-wise Dataset Partitioning: Balanced dataset representation to mitigate bias and improve performance consistency.
