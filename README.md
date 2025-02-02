@@ -32,13 +32,13 @@ The following architectures have been fine-tuned and optimized to enhance diseas
 
 Each model has been evaluated using rigorous performance metrics:
 
-Accuracy: Average 95.7% across all models.
+- Accuracy: Average 95.7% across all models.
 
-ROC-AUC Curve: Comprehensive evaluation of classification thresholds.
+- ROC-AUC Curve: Comprehensive evaluation of classification thresholds.
 
-Precision-Recall Analysis: Ensures robustness against class imbalance.
+- Precision-Recall Analysis: Ensures robustness against class imbalance.
 
-Confusion Matrix Visualization: Provides insights into misclassifications.
+- Confusion Matrix Visualization: Provides insights into misclassifications.
 
 🔧 Installation & Setup
 Clone the repository:
