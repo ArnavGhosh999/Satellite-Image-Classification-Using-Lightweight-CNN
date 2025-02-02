@@ -40,13 +40,6 @@ Each model has been evaluated using rigorous performance metrics:
 
 - Confusion Matrix Visualization: Provides insights into misclassifications.
 
-🔧 Installation & Setup
-Clone the repository:
-
-```
-git clone https://github.com/your_username/crop-disease-classification.git
-cd crop-disease-classification
-```
 📬 Contact
 
 For queries, feel free to reach out:
