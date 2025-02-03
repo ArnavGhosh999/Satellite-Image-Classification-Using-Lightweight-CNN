@@ -40,7 +40,9 @@ Each model has been evaluated using rigorous performance metrics:
 
 - Confusion Matrix Visualization: Provides insights into misclassifications.
 
-<img src ='Split/Data_split.png'>
+<h2>Train-Test-Validation split between classes</h2>
+
+<img src ='Split/Data_split.png' height="400" width="400">
 
 📬 Contact
 
