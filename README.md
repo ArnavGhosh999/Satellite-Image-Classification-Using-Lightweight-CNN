@@ -45,6 +45,21 @@ Each model has been evaluated using rigorous performance metrics:
 <img src ='Split/Data_split.png' height="400" width="450">
 
 
+| Parameter               | Value                                      |
+| ----------------------- | ------------------------------------------ |
+| `Optimizer`            | Adam                                       |
+| `Learning Rate`        | 0.0001                                     |
+| `Batch Size`          | 32                                         |
+| `Epochs`              | 50                                         |
+| `Loss Function`       | Categorical Crossentropy                   |
+| `Weight Initialization` | Xavier Initialization                    |
+| `Activation Function`  | ReLU (Hidden Layers), Softmax (Output Layer) |
+| `Dataset Split`       | 70% Training, 15% Validation, 15% Testing  |
+| `Image Size`          | 256 x 256 pixels                           |
+| `Number of Classes`   | 5-Fold                                     |
+
+
+
 📬 Contact
 
 For queries, feel free to reach out:
