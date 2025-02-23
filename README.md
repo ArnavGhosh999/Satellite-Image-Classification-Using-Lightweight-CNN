@@ -59,6 +59,9 @@ Each model has been evaluated using rigorous performance metrics:
 | `Number of Classes`   | 5-Fold                                     |
 
 
+<img src = 'Results/Classification.png' width = 650, height = 350>
+
+
 
 📬 Contact
 
